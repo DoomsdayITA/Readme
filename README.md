@@ -1,1 +1,39 @@
-# Readme
+![App Screenshot](https://i.imgur.com/y8g506n.png)
+
+# DoomsdayITA
+
+### My info:
+
+```bash
+$ 
+$ My lang 🇮🇹
+$ Love 🍕
+$ Telegram @Zerx0rD3V
+$ dev basic python
+$ cd /home/uman
+$ sudo chmod -R 777 uman.py
+$ python -m uman.py
+$ delete earth
+$ 
+```
+## Authors
+
+- [@DoomsdayITA](https://www.github.com/DoomsdayITA)
+
+
+## T.o.r
+
+- 1) usa tails linux
+- 2) usa vpn
+- 3) no Fullscreen mode
+- 4) Goooooo
+
+
+## 🛠 Skills
+Python, Html, Php, Css...
+
+
+## 🔗 Links
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Doomsday_ita)
+[![twitter](https://img.shields.io/badge/telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Zerx0rD3V)
+
