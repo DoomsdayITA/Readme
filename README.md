@@ -23,8 +23,8 @@ $
 
 ## T.o.r
 
-- 1) usa tails linux
-- 2) usa vpn
+- 1) TailsOS - linux
+- 2) setting vpn for router
 - 3) no Fullscreen mode
 - 4) Goooooo
 
