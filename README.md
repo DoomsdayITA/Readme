@@ -9,11 +9,6 @@ $
 $ My lang 🇮🇹
 $ Love 🍕
 $ Telegram @Zerx0rD3V
-$
-$ cd /home/uman
-$ sudo chmod -R 777 uman.py
-$ python -m uman.py
-$ delete earth
 $ 
 ```
 ## Authors
