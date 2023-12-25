@@ -5,13 +5,10 @@
 ### My info:
 
 ```bash
-```
 $ 
 $ My lang 🇮🇹
 $ Love 🍕
 $ Telegram @Zerx0rD3V
-$
-```
 $
 $ cd /home/uman
 $ sudo chmod -R 777 uman.py
